@@ -11,7 +11,7 @@
 
 <p>Explore my repositories for examples of projects that reflect my problem-solving approach, technical curiosity, and ongoing development as a technologist.</p>
 
-
+<!--
 <p align="left">
       <a href="#">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black">
@@ -21,7 +21,7 @@
       <a href="#">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
 </p>
-  
+-->
 
 <hr></hr>
 <h2>Languages and Tools</h2>

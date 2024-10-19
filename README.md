@@ -7,12 +7,12 @@
   <li>📊 <strong>Data Engineering:</strong> My work involved designing and implementing data-driven processes, building ETL pipelines, and creating meaningful insights from raw data, driving improvements in the medical device business.</li>
 </ul>
 
-<p>What defines me is my <strong>ability to learn and adapt</strong> quickly to new challenges. My diverse experience enables me to think creatively and strategically at the intersection of software and data, even in non-technical roles.</p>
+<p>What defines me is my <strong>ability to take technology inspired solutions</strong> to solve problems. My diverse experience enables me to think creatively and strategically at the intersection of software and data, even in non-technical roles.</p>
 
 <p>Explore my repositories for examples of projects that reflect my problem-solving approach, technical curiosity, and ongoing development as a technologist.</p>
 
 
- <p align="left">
+ ### <p align="left">
       <a href="#">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Install%20Package-gold?style=for-the-badge&logo=package&logoColor=black">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
@@ -21,6 +21,7 @@
       <a href="#">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
+   ###
 
 <hr></hr>
 

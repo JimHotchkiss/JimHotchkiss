@@ -11,7 +11,7 @@
 
 <p>Explore my repositories for examples of projects that reflect my problem-solving approach, technical curiosity, and ongoing development as a technologist.</p>
 
-<hr><hr>
+<hr></hr>
 
 <!--
 <p align="left">

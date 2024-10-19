@@ -1,4 +1,16 @@
-<h1>Hi there 👋</h1>
+<h2>👋 Welcome!</h2>
+
+<p>I’m a <strong>Software Developer</strong> and <strong>Data Engineer</strong> by passion, with a background in the <strong>medical device industry</strong>. While my career path hasn't followed the traditional route, I’ve leveraged my technical skills to solve complex challenges and improve processes in the healthcare space.</p>
+
+<ul>
+  <li>💻 <strong>Software Development:</strong> Though I haven’t worked professionally as a developer, I’ve consistently applied my programming skills to create solutions that automate tasks, streamline workflows, and enhance efficiency.</li>
+  <li>📊 <strong>Data Engineering:</strong> My work involved designing and implementing data-driven processes, building ETL pipelines, and creating meaningful insights from raw data, driving improvements in the medical device business.</li>
+</ul>
+
+<p>What defines me is my <strong>ability to learn and adapt</strong> quickly to new challenges. My diverse experience enables me to think creatively and strategically at the intersection of software and data, even in non-technical roles.</p>
+
+<p>Explore my repositories for examples of projects that reflect my problem-solving approach, technical curiosity, and ongoing development as a technologist.</p>
+
 
  <p align="left">
       <a href="#">

@@ -4,7 +4,7 @@
 
 <ul>
   <li>💻 <strong>Software Development:</strong> I’ve applied my programming skills to create solutions that improve and streamline workflows, and enhance efficiency.</li>
-  <li>📊 <strong>Data Engineering:</strong> My work involved designing and implementing data-driven processes, building ETL pipelines, and creating meaningful insights from raw data, driving improvements in the medical device business.</li>
+  <li>📊 <strong>Data Engineering:</strong> I've worked to build data engineering skills by assisting in the creation of data-driven processes, experimenting with ETL pipelines, and analyzing raw data to help inform decisions and drive improvements in the medical device business.</li>
 </ul>
 
 <p>What defines me is my <strong>ability to take technology inspired solutions</strong> to solve problems. My diverse experience enables me to think creatively and strategically at the intersection of software and data, even in non-technical roles.</p>
